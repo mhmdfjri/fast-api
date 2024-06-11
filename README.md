@@ -15,8 +15,7 @@ Activate virtual environtment:
 Run Docker Compose:
 - docker-compose up --build
 
-Access API documentaion:
+API documentaion:
 - http://127.0.0.1:8000/docs
 
 
-Happy Coding guys😎
